@@ -1,15 +1,4 @@
-#### WeatherPY API
 
-Analysis
-
-* Observed trend 1
-The max temperatures for cities nearest the equator tend to be greater than at other latitudes, but not by a huge amount.
-
-* Observed trend 2
-The cloudiness percentage does not change based on latitudinal differences.
-
-* Observed trend 3
-Humidity also can be 100% at other locations than at the equator and doesn't appear to correlate with decreases or increases of latitude changes.
 
 ```python
 ##### WeatherPY ######
